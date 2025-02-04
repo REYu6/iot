@@ -1,7 +1,8 @@
 # DI_7001_MINI_5G RCE
 ## Overview
-Manufacturer's website:[网址](http://www.dlink.com.cn)
-Firmware download website:[ ](https://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DI-7001MINI-5G)
+Manufacturer's website:[http://www.dlink.com.cn](http://www.dlink.com.cn)
+
+Firmware download website:[https://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DI-7001MINI-5G](https://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DI-7001MINI-5G)
 ## Affected version
 19.10.31A1
 ## Vulnerability details
