@@ -1,7 +1,7 @@
 # DI_7001_MINI_8G_A1 RCE
 ## Overview
-Manufacturer's website:[网址](http://www.dlink.com.cn)
-Firmware download website:[ ](https://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DI-7001MINI-8G)
+Manufacturer's website:[http://www.dlink.com.cn](http://www.dlink.com.cn)
+Firmware download website:[https://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DI-7001MINI-8G](https://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DI-7001MINI-8G)
 ## Affected version
 A1-19.09.19A1
 ## Vulnerability details 
